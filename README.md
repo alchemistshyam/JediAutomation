@@ -1,4 +1,4 @@
-# TeamRSA
+# jediFramework
 Repository of the web application and api automation test framework of TeamRSA
 
 ApiTestFramework
@@ -12,9 +12,6 @@ To Test the given application we have built our own Test automation framework us
 Framework Requirment: Python 3.4 Nose 1.3.7 Selenium 3.5
 
 We are utlizing the capability of nose test to do modular programing. Test cases and Test Data are stored in orginization format.
-
-![Automation FrameWork](https://github.com/DevonQAHackathon/TeamRSA/blob/master/Images/image.png?raw=true?raw=true "Block Diagram")
-
 Advantages of using the given Moduler Automation FrameWork:
 - Well designed Folder Structured for Clean code (Prinicples)
 - Common BaseTest which is derived form python unittest
